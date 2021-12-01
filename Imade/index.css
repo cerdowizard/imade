@@ -1,0 +1,48 @@
+body{
+    background-image: url("marc-a-sporys-wHaQ4XJ9SgY-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.container .holding {
+    margin-bottom: 30px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+margin-left: auto;
+padding: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 4px 7px rgba(0, 0, 0, 0.5);
+ margin-top: 50px;
+}
+.container .holding p{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Pacifico', cursive;
+}
+.holding h4.love{
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 10px;
+    padding: 20px;
+    color: white;
+    background-color: rgb(11, 178, 255);
+    text-align: center;
+}
+ .holding:hover{
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    background-color: rgb(0, 0, 0);
+    color: red;
+    box-shadow: 1px 4px 7px rgba(0, 0, 0, 0.5);
+}
+.holding h4.love:hover{
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    box-shadow: 1px 4px 7px rgba(255, 255, 255, 0.5);
+    text-align: center;
+    padding: 20px;
+}
